@@ -1,3 +1,7 @@
+---
+permalink: /faq
+---
+
 # Planter FAQ
 
 ### How do I create a garden?
@@ -37,8 +41,3 @@ Red circles mean the adjacent plants are combative and shouldn't be planted.
 4× indicates you can plant 4 plants in that square.
 
 ¼ indicates you need 1 plant per 4 squares. __Why doesn't the plant just take up 4 squares?__ Well, when I first started Planter, that was the intention. However, it's a challenging technical problem that I haven't been able to solve _yet_. In the meantime, I just leave 3 empty squares around a large plant like Tomatoes. Other gardeners fill in all 4 squares. It's up to you.
-
-
-
-
-
