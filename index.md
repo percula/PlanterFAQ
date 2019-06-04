@@ -20,7 +20,9 @@ Click the "filter" icon and select "Show Varieties" to see all plants.
 
 ### Why doesn't Planter have {name of plant}?
 
-I try my best to add more plants, but it is a time consuming task. This is not my full-time job and I have 2 kids under 2, so as you can imagine it's hard to find the time. Thanks for your understanding 😉. You can always add a custom plant, just see the tutorials linked above.
+Please feel free to <a target="_blank" href="https://mailhide.io/e/IIRlz">send me your plant requests</a>. While you're waiting for me to add it, you can create a [custom plant](https://youtu.be/ox65gthSCDM) or [variety](https://youtu.be/r_NDs-RGTuU).
+
+I try my best to add plants, but it is a time consuming task. This is not my full-time job and I have 2 kids under 2, so as you can imagine it's hard to find the time. Thanks for your understanding 😉. 
 
 ### What do those green and red circles mean?
 
