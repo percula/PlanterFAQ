@@ -18,8 +18,5 @@ Click the "filter" icon and select "Show Varieties" to see all plants.
 
 <img src="images/ScreenCrop-20190602-204606.jpeg" width="40%">
 
-![ScreenCrop-20190602-204606.jpeg](images/ScreenCrop-20190602-204606.jpeg)
-
-
 
 
