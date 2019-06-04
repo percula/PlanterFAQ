@@ -23,7 +23,7 @@ Click the "filter" icon and select "Show Varieties" to see all plants.
 Green circles mean the adjacent plants are companions and work well together.
 Red circles mean the adjacent plants are combative and shouldn't be planted.
 
-<img src="images/ScreenCrop-20190604-092910.jpg" width="100%">
+<img src="images/ScreenCrop-20190604-092910.jpg" width="40%">
 
 
 
