@@ -16,7 +16,7 @@ View this [video tutorial](https://youtu.be/r_NDs-RGTuU)
 
 Click the "filter" icon and select "Show Varieties" to see all plants.
 
-![ScreenCrop-20190602-204606.jpeg](images/ScreenCrop-20190602-204606.jpeg | width=250)
+![ScreenCrop-20190602-204606.jpeg](images/ScreenCrop-20190602-204606.jpeg)
 
 
 
