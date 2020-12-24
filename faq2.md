@@ -1,5 +1,5 @@
 ---
-permalink: /faq
+permalink: /faq2
 ---
 
 # Planter FAQ
