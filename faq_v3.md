@@ -21,7 +21,7 @@ View this [video tutorial](https://youtu.be/r_NDs-RGTuU)
 
 Click the "filter" icon and select "Show Varieties" to see all plants.
 
-<img src="images/ScreenCrop-20190602-204606.jpeg" max-width="100%">
+<img src="../images/ScreenCrop-20190602-204606.jpeg" max-width="100%">
 
 ### Why doesn't Planter have {name of plant}?
 
@@ -37,7 +37,7 @@ Red circles mean the adjacent plants are combative and shouldn't be planted.
 
 Yellow circles mean that some varieties of the plants are compatible while others are combative.
 
-<img src="images/ScreenCrop-20190604-092910.jpg" max-width="100%">
+<img src="../images/ScreenCrop-20190604-092910.jpg" max-width="100%">
 
 ### What do those circles with 4× and ¼ mean?
 
