@@ -27,13 +27,15 @@ Click the "filter" icon and select "Show Varieties" to see all plants.
 
 Please feel free to <a target="_blank" href="https://mailhide.io/e/IIRlz">send me your plant requests</a>. While you're waiting for me to add it, you can create a [custom plant](https://youtu.be/ox65gthSCDM) or [variety](https://youtu.be/r_NDs-RGTuU).
 
-I try my best to add plants, but it is a time consuming task. This is not my full-time job and I have 2 kids under 2, so as you can imagine it's hard to find the time. Thanks for your understanding 😉. 
+I try my best to add plants, but it is a time consuming task. This is not my full-time job and I have 2 young kids, so as you can imagine it's hard to find the time. Thanks for your understanding 😉. 
 
 ### What do those green and red circles mean?
 
 Green circles mean the adjacent plants are companions and work well together.
 
 Red circles mean the adjacent plants are combative and shouldn't be planted.
+
+Yellow circles mean that some varieties of the plants are compatible while others are combative.
 
 <img src="images/ScreenCrop-20190604-092910.jpg" max-width="100%">
 
