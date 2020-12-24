@@ -45,13 +45,12 @@ Yellow circles mean that some varieties of the plants are compatible while other
 
 ### What does "pro" include?
 
-♾ Unlimited gardens
-🚫 No ads
-📝 Notes
-📅 Events: Keep track of when you start seeds, water, fertilize, and more
-🎨 Custom backgrounds: Mulch, trellises, and more
-😊 A warm, fuzzy feeling for supporting the app developer
+♾ Unlimited gardens  
+🚫 No ads  
+📝 Notes  
+📅 Events: Keep track of when you start seeds, water, fertilize, and more  
+🎨 Custom backgrounds: Mulch, trellises, and more  
+😊 A warm, fuzzy feeling for supporting the app developer  
 
 ### What platforms is Planter available for?
-
 Planter is currently available for Android and iOS. Web support is coming soon!
