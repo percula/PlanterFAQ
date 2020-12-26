@@ -3,7 +3,7 @@ permalink: /faq/v3
 published: true
 ---
 
-# Planter FAQ
+## FAQ
 
 ### How do I create a garden?
 
