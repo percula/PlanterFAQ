@@ -1,8 +1,8 @@
 ---
 permalink: /privacy
-title: Planter Privacy Policy
 published: true
 ---
+## Privacy Policy
 
 This privacy policy governs your use of the software application Planter (“Application”) for mobile devices that was created by Percula LLC. The Application is a gardening app.
 
