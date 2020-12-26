@@ -1,3 +1,7 @@
+---
+title: Planter
+---
+
 ### The best tool to plan and manage your vegetable garden!
 
 Planter helps gardeners plan and manage their food gardens. You can plan the layout of your garden, identify which plants should or shouldn’t be planted together, get information on how to grow each plant, and more!
