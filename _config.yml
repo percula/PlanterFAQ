@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Planter
+logo: /images/logo1024x1024.png
 github:
   is_project_page: false
