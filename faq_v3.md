@@ -15,7 +15,7 @@ View this [video tutorial](https://youtu.be/A-6cZsS_s_I)
 
 ### How do I add a variety of a plant?
 
-View this [video tutorial](https://youtu.be/r_NDs-RGTuU)
+View this [video tutorial](https://youtu.be/W45PuGmmDng)
 
 ### I don't see sweet potatoes, green onions, or red peppers? Where are they?
 
