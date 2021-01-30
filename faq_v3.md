@@ -7,7 +7,7 @@ published: true
 
 ### How do I create a garden?
 
-View this [video tutorial](https://youtu.be/wOKNkJqbt8A)
+View this [video tutorial](https://youtu.be/bUXQpFhvP1o)
 
 ### How do I create a custom plant?
 
