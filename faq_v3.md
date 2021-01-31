@@ -17,11 +17,11 @@ View this [video tutorial](https://youtu.be/A-6cZsS_s_I)
 
 View this [video tutorial](https://youtu.be/W45PuGmmDng)
 
-### I don't see sweet potatoes, green onions, or red peppers? Where are they?
+### I don't see zucchini, green onions, or red peppers? Where are they?
 
-Click the "filter" icon and select "Show Varieties" to see all plants.
+These are listed in the varieties tab of the plant.
 
-<img src="../images/ScreenCrop-20190602-204606.jpeg" max-width="100%">
+<img src="../images/variety.webp" max-width="100%">
 
 ### Why doesn't Planter have {name of plant}?
 
@@ -37,9 +37,9 @@ Red circles mean the adjacent plants are combative and shouldn't be planted.
 
 Yellow circles mean that some varieties of the plants are compatible while others are combative.
 
-<img src="../images/ScreenCrop-20190604-092910.jpg" max-width="100%">
+<img src="../images/compatibility.webp" max-width="100%">
 
-### What do those circles with 4× and ¼ mean?
+### What do those circles with 4× mean?
 
 4× indicates you can plant 4 plants in that square.
 
