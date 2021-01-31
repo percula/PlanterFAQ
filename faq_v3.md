@@ -33,7 +33,7 @@ I try my best to add plants, but it is a time consuming task. This is not my ful
 
 Green circles mean the adjacent plants are companions and work well together.
 
-Red circles mean the adjacent plants are combative and shouldn't be planted.
+Red circles mean the adjacent plants are combative and shouldn't be planted. These circles also have a darker inner circle to help color-blind gardeners identify them.
 
 Yellow circles mean that some varieties of the plants are compatible while others are combative.
 
