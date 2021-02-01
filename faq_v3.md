@@ -17,6 +17,10 @@ View this [video tutorial](https://youtu.be/A-6cZsS_s_I)
 
 View this [video tutorial](https://youtu.be/DfDtJSIL0dg)
 
+### How do I customize my garden background? (premium feature)
+
+View this [video tutorial](https://youtu.be/aTJlkn8BpFw)
+
 ### I don't see zucchini, green onions, or red peppers? Where are they?
 
 These are listed in the varieties tab of the plant.
