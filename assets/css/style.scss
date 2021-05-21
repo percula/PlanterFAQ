@@ -19,3 +19,11 @@ a:hover, a:focus {
   float: left;
   padding-right: 8px;
 }
+
+@media screen and (max-width: 750px) {
+    iframe {
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+}
