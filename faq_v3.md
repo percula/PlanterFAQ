@@ -7,8 +7,7 @@ published: true
 
 ### How do I create a garden?
 
-View this [video tutorial](https://youtu.be/bUXQpFhvP1o)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bUXQpFhvP1o/0.jpg)](https://youtu.be/bUXQpFhvP1o)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bUXQpFhvP1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How do I create a custom plant?
 
@@ -16,13 +15,11 @@ View this [video tutorial](https://youtu.be/bUXQpFhvP1o)
 
 ### How do I add a variety of a plant?
 
-View this [video tutorial](https://youtu.be/DfDtJSIL0dg)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DfDtJSIL0dg/0.jpg)](https://youtu.be/DfDtJSIL0dg)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DfDtJSIL0dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How do I customize my garden background? (premium feature)
 
-View this [video tutorial](https://youtu.be/aTJlkn8BpFw)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aTJlkn8BpFw/0.jpg)](https://youtu.be/aTJlkn8BpFw)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aTJlkn8BpFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### I don't see zucchini, green onions, or red peppers? Where are they?
 
