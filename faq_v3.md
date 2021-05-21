@@ -10,7 +10,7 @@ published: true
 
 
 ### How do I create a custom plant?
-<iframe src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### How do I add a variety of a plant?
