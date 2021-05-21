@@ -12,8 +12,7 @@ View this [video tutorial](https://youtu.be/bUXQpFhvP1o)
 
 ### How do I create a custom plant?
 
-View this [video tutorial](https://youtu.be/A-6cZsS_s_I)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A-6cZsS_s_I/0.jpg)](https://youtu.be/A-6cZsS_s_I)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How do I add a variety of a plant?
 
