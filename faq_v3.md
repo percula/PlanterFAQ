@@ -7,19 +7,20 @@ published: true
 
 ### How do I create a garden?
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bUXQpFhvP1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 
 ### How do I create a custom plant?
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 
 ### How do I add a variety of a plant?
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DfDtJSIL0dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
 
 ### How do I customize my garden background? (premium feature)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aTJlkn8BpFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+\
+ 
 ### I don't see zucchini, green onions, or red peppers? Where are they?
 These are listed in the varieties tab of the plant.
 
