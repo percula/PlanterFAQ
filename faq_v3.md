@@ -8,18 +8,22 @@ published: true
 ### How do I create a garden?
 
 View this [video tutorial](https://youtu.be/bUXQpFhvP1o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bUXQpFhvP1o/0.jpg)](https://youtu.be/bUXQpFhvP1o)
 
 ### How do I create a custom plant?
 
 View this [video tutorial](https://youtu.be/A-6cZsS_s_I)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A-6cZsS_s_I/0.jpg)](https://youtu.be/A-6cZsS_s_I)
 
 ### How do I add a variety of a plant?
 
 View this [video tutorial](https://youtu.be/DfDtJSIL0dg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DfDtJSIL0dg/0.jpg)](https://youtu.be/DfDtJSIL0dg)
 
 ### How do I customize my garden background? (premium feature)
 
 View this [video tutorial](https://youtu.be/aTJlkn8BpFw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aTJlkn8BpFw/0.jpg)](https://youtu.be/aTJlkn8BpFw)
 
 ### I don't see zucchini, green onions, or red peppers? Where are they?
 
